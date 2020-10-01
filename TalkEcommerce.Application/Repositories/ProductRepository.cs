@@ -4,7 +4,7 @@ using TalkEcommerce.Entities;
 
 namespace TalkEcommerce.Repositories
 {
-    public class ProductRepository
+    public class ProductRepository : IProductRepository
     {
         private readonly TalkECommerceDbContext _talkEcommerceDbContxt;
         public ProductRepository(TalkECommerceDbContext talkECommerceDbContext)
