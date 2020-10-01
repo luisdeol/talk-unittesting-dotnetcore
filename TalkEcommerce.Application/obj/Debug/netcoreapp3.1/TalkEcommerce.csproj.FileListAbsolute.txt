@@ -1,8 +1,0 @@
-C:\Users\luisd\source\repos\TalkEcommerce.Application\TalkEcommerce.Application\bin\Debug\netcoreapp3.1\TalkEcommerce.deps.json
-C:\Users\luisd\source\repos\TalkEcommerce.Application\TalkEcommerce.Application\bin\Debug\netcoreapp3.1\TalkEcommerce.dll
-C:\Users\luisd\source\repos\TalkEcommerce.Application\TalkEcommerce.Application\bin\Debug\netcoreapp3.1\TalkEcommerce.pdb
-C:\Users\luisd\source\repos\TalkEcommerce.Application\TalkEcommerce.Application\obj\Debug\netcoreapp3.1\TalkEcommerce.csprojAssemblyReference.cache
-C:\Users\luisd\source\repos\TalkEcommerce.Application\TalkEcommerce.Application\obj\Debug\netcoreapp3.1\TalkEcommerce.AssemblyInfoInputs.cache
-C:\Users\luisd\source\repos\TalkEcommerce.Application\TalkEcommerce.Application\obj\Debug\netcoreapp3.1\TalkEcommerce.AssemblyInfo.cs
-C:\Users\luisd\source\repos\TalkEcommerce.Application\TalkEcommerce.Application\obj\Debug\netcoreapp3.1\TalkEcommerce.dll
-C:\Users\luisd\source\repos\TalkEcommerce.Application\TalkEcommerce.Application\obj\Debug\netcoreapp3.1\TalkEcommerce.pdb
